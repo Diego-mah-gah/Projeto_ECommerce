@@ -1,0 +1,2 @@
+ALTER TABLE Produto
+ADD COLUMN classificacao DECIMAL(3,1) DEFAULT 0.0 NOT NULL;
